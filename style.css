@@ -126,7 +126,7 @@ a {
     }
 
     .bg__img {
-        height: fit-content;
+        height: 50%;
         border-radius: 0;
         border: none;
     }
