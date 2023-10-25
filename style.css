@@ -118,7 +118,6 @@ a {
 
 @media screen and (max-width: 767px) {
     .head__shot {
-        height: min-content;
         width: 250px;
         left: 0%;
         top: 300px;
