@@ -55,11 +55,25 @@ body {
     padding-top: 6px;
 }
 
+.container__text:hover {
+    color: #5b5959;
+}
+
 .icon__mail,
 .icon__phone {
     width: 20px;
     opacity: .4;
     padding-top: 5px;
+}
+
+.icon__phone:hover {
+    transform: scale(1.5);
+    opacity: .7;
+}
+
+.icon__mail:hover {
+    transform: scale(1.5);
+    opacity: .7;
 }
 
 a {
